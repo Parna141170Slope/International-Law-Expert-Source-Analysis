@@ -1,0 +1,16 @@
+
+1. Automated Search:
+   - Conducted internet searches using keywords related to the five organizations (PCHR Gaza, Al Mezan, Al-Haq, Addameer, DCI Palestine) and hostages.
+   - Focused on public statements since October 7, 2023, in English and Arabic.
+
+2. Dataset Analysis:
+   - Reviewed the provided Excel file for relevant data, including the 'Must Should Statements' tab.
+   - Filtered for statements containing keywords like 'hostage' and cross-referenced with the five organizations.
+
+3. Manual Review:
+   - Accessed official websites and social media pages of the five organizations.
+   - Searched for public statements referencing hostages, using site-specific search tools where available.
+
+4. Documentation:
+   - Saved all filtered and verified statements to an Excel file for transparency.
+   - Provided links to official sources for further verification.
